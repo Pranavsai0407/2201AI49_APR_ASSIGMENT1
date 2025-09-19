@@ -39,5 +39,5 @@ PCA is applied to reduce the dataset from 4 dimensions to 2 dimensions (PC1 and 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Pranavsai0407/2201AI49_APR_ASSIGMENT1.git
    cd <repo-folder>
